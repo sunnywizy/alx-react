@@ -1,0 +1,56 @@
+/* src/App.css */
+
+.App {
+  width: 80%;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App-header {
+  width: 80%;
+  margin: auto;
+  background-color: #ffffff;
+  min-height: 20vh;
+  display: flex;
+  align-items: center;
+  color: #ff0000;
+}
+
+.App-hr {
+  border: none;
+  height: 4px;
+  background-color: #ff0000;  
+  margin: 20px 0;
+  width: 80%;
+  margin: auto;
+}
+
+.App-header img {
+  height: 8rem;
+  margin-right: 60px;
+}
+
+.App-header h1 {
+  font-size: 3rem;
+}
+
+.App-body {
+  width: 80%;
+  margin: 40px auto;
+  min-height: 60vh;
+  display: flex;
+  font-size: 1.5rem;
+  color: #000000;
+}
+
+.App-footer {
+  width: 80%;
+  margin: auto;
+  font-weight: bold;
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000000;
+  font-size: 1rem;
+}
